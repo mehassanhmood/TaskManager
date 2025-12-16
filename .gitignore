@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+venv/
+ENV/
+env/
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Test coverage reports
+.coverage
+.coverage.*
+
+# Logs
+*.log
+
+# SQLite database files
+*.sqlite
+
+# Copilot files
+.copilot/
